@@ -3,9 +3,6 @@
   "version": "2.0.0",
   "description": "make by alip free rest api",
   "main": "index.js",
-  "engines": {
-    "node": "16.x"
-  },
   "directories": {
     "lib": "lib"
   },
